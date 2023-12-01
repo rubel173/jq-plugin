@@ -1,2 +1,1 @@
-# jq-plugin
-js &amp; jq 
+# js_class6
